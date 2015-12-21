@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[She And He Productions]]></title>
+        <description><![CDATA[She And He Productions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 00:36:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[She And He Productions]]></title>
+            <description><![CDATA[<article><h1>She And He Productions</h1><p>She And He Productions are a husband
+and wife team of wedding enthusiasts.
+Combined, they boast over ten years of
+experience in planning and filming the
+ultimate party. You’ll love working with
+us just as much as you’ll love your event.
+We want to help you pull off the wedding
+of your dreams, customized to your
+unique personalities. Contact us now
+and let’s get started on your big day.
+</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83452f28-9acf-49c6-b3a6-d0e19e5bedf9.jpg"></article>]]></description>
+            <link>undefinedshe-and-he-productions/index.html</link>
+            <guid isPermaLink="false">f375ede1-3e7b-4791-b01d-5807a9d5e365</guid>
+            <pubDate>Mon, 21 Dec 2015 00:36:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
