@@ -1,6 +1,6 @@
 name: She And He Productions
 favicon: null
-layout_spectrum: 0.13351
+layout_spectrum: 0.27156
 typography_spectrum: 0.5495
 title: 'She & He Productions'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#bf94b0'
     - '#d6d6d6'
     - '#464646'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.6875
   saturation: 0.8901892458088696
   rhythmicContrast: 0.3407151286955923
